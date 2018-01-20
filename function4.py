@@ -29,5 +29,5 @@ def testFindRoot():
             if ans== None:
                 print("The answer is imaginary")
             else:
-                print ans, "to the power", pwr,\
-                      " is close to", x
+                print(ans, "to the power", pwr,\
+                      " is close to", x)
